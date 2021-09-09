@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EdgeTTS.Net", "EdgeTTS\EdgeTTS.Net.csproj", "{A682A415-0167-4906-83DC-26CAA1C39BDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EdgeTTS.Test", "EdgeTTS.Test\EdgeTTS.Test.csproj", "{462AF3B1-C748-4D30-AF9E-4B317A7BBBF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A682A415-0167-4906-83DC-26CAA1C39BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A682A415-0167-4906-83DC-26CAA1C39BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A682A415-0167-4906-83DC-26CAA1C39BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A682A415-0167-4906-83DC-26CAA1C39BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462AF3B1-C748-4D30-AF9E-4B317A7BBBF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462AF3B1-C748-4D30-AF9E-4B317A7BBBF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462AF3B1-C748-4D30-AF9E-4B317A7BBBF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462AF3B1-C748-4D30-AF9E-4B317A7BBBF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83848DC0-2955-47FE-9DD3-6EDC355A280C}
+	EndGlobalSection
+EndGlobal
